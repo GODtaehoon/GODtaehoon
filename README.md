@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 개발자 되기 위해서 노력중입니다. 👋
 
 <!--
 **GODtaehoon/GODtaehoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
