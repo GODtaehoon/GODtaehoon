@@ -1,5 +1,8 @@
 ## 안녕하세요 개발자 되기 위해서 노력중입니다. 👋
 
+쇼핑몰 프로젝트 http://ec2-15-165-203-231.ap-northeast-2.compute.amazonaws.com:3000
+(React, node.js, mysql, aws ec2 사용 혼자 작업)
+
 <!--
 **GODtaehoon/GODtaehoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
